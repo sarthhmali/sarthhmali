@@ -1,16 +1,14 @@
 ### Hi there 👋
+<br>
+let's conntect
+<br>
 
-<!--
-**sarthhmali/sarthhmali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is Sarth Bhausaheb Mali.
+<br>
+Doing B.teach in computer science and engineering .
+<br>
+collage  : Annasaheb Dange collage of engineering , Ashta .
+<br>
+this is my first repository on github . 
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
