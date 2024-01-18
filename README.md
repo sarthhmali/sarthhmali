@@ -5,7 +5,7 @@ let's conntect
 
 my name is Sarth Bhausaheb Mali.
 <br>
-Doing B.teach in computer science and engineering .
+Doing B.tech in computer science and engineering .
 <br>
 collage  : Annasaheb Dange collage of engineering , Ashta .
 <br>
