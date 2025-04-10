@@ -52,11 +52,11 @@ I love writing clean, efficient code and solving real-world problems through dev
 
 ## 🔗 Let's Connect
 
-- 📧 Email: [sarthmali.sm21@gmail.com](mailto:sarthmali.sm21@gmail.com)
+- 📧 Email: [sarthmali369@gmail.com](mailto:sarthmali.sm21@gmail.com)
 - 🌐 Portfolio: Coming Soon!
 - 💼 LinkedIn: [linkedin.com/in/sarth-mali](https://linkedin.com/in/sarth-mali)
 - 🐦 Twitter/X: [@sarth_mali](https://twitter.com/sarth_mali)
-- 💣 HackTheBox / TryHackMe: Coming Soon
+- 💣 HackTheBox / TryHackMe:sarthan 
 
 ---
 
