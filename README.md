@@ -22,8 +22,8 @@
 |----------|------------|
 | 🐍 Python | Scripting, Automation, Web Crawlers, Flask |
 | 💡 C++ | DSA, Problem Solving, Competitive Programming |
-| 🖥️ Web Dev | HTML, CSS, JavaScript, React.js, Tailwind CSS |
-| ⚙️ Backend | Node.js, PHP, MySQL |
+| 🖥️ Web Dev | HTML, CSS, JavaScript, React.js, |
+| ⚙️ Backend | Node.js, PHP, MongoDB  |
 | 🌍 Frameworks | Redux Toolkit, Three.js, i18n |
 
 I love writing clean, efficient code and solving real-world problems through development.
@@ -40,15 +40,6 @@ I love writing clean, efficient code and solving real-world problems through dev
 | 💻 Platforms | TryHackMe, HackTheBox, HackerOne, Bugcrowd |
 | 🛠️ OS | Kali Linux, Parrot OS, Ubuntu |
 
----
-
-## 📈 GitHub Stats
-
-![Sarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pathuz21&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pathuz21&layout=compact&theme=radical)
-
----
 
 ## 🔗 Let's Connect
 
