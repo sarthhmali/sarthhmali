@@ -47,9 +47,10 @@ I love writing clean, efficient code and solving real-world problems through dev
 - 🌐 Portfolio: Coming Soon!
 - 💼 LinkedIn: [linkedin.com/in/sarth-mali](https://linkedin.com/in/sarth-mali)
 - 🐦 Twitter/X: [@sarth_mali](https://twitter.com/sarth_mali)
-- 💣 HackTheBox / TryHackMe:sarthan 
+- 💣 HackTheBox / TryHackMe: Sarthan
+- 
 
----
-
+---"developer "
+> _"Cyber security engineer by day, vigilante hacker by night". 
 > _“I break to learn. I build to grow.”_  
 > _“Security is not a product, but a process.” — Bruce Schneier_
