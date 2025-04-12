@@ -21,8 +21,8 @@
 | Language | Tools/Tech |
 |----------|------------|
 | 🐍 Python | Scripting, Automation, Web Crawlers, Flask |
-| 💡 C++ | DSA, Problem Solving, Competitive Programming |
-| 🖥️ Web Dev | HTML, CSS, JavaScript, React.js, |
+| 💡 C++ | DSA, Problem Solving, Programming |
+| 🖥️ Web Dev | HTML, CSS, JavaScript  |
 | ⚙️ Backend | Node.js, PHP, MongoDB  |
 | 🌍 Frameworks | Redux Toolkit, Three.js, i18n |
 
@@ -52,5 +52,4 @@ I love writing clean, efficient code and solving real-world problems through dev
 
 ---"developer "
 > _"Cyber security engineer by day, vigilante hacker by night". 
-> _“I break to learn. I build to grow.”_  
 > _“Security is not a product, but a process.” — Bruce Schneier_
