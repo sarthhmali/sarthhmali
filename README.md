@@ -22,9 +22,7 @@
 |----------|------------|
 | 🐍 Python | Scripting, Automation, Web Crawlers, Flask |
 | 💡 C++ | DSA, Problem Solving, Programming |
-| 🖥️ Web Dev | HTML, CSS, JavaScript  |
-| ⚙️ Backend | Node.js, PHP, MongoDB  |
-| 🌍 Frameworks | Redux Toolkit, Three.js, i18n |
+
 
 I love writing clean, efficient code and solving real-world problems through development.
 
