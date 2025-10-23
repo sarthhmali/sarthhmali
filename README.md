@@ -22,6 +22,7 @@
 |----------|------------|
 | 🐍 Python | Scripting, Automation, Web Crawlers, Flask |
 | 💡 C++ | DSA, Problem Solving, Programming |
+| Database : SQL | 
 
 
 I love writing clean, efficient code and solving real-world problems through development.
