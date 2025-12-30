@@ -33,22 +33,20 @@ I enjoy writing clean, efficient, and optimized code to solve real-world data an
 Domain	Tools
 📈 Data Analysis	Python, Pandas, NumPy
 🗄️ Databases	PostgreSQL, MySQL
-📊 Visualization	Matplotlib, Power BI (learning)
+📊 Visualization	Matplotlib, Power BI , Tableau
 📑 Querying	Advanced SQL, Window Functions
 ⚙️ Backend	Python, Flask, Database Integration
 🚀 Career Focus
 
-✅ Current: Data Analyst • SQL Developer • Python Developer
+✅ Current: Data Analyst • SQL Developer • Python Developer  • C++ Developer
 
 🎯 Future Goal: Data Scientist
 
-⚙️ Also Exploring: Python Backend Development & APIs
+⚙️ Also Exploring: Python Backend Development & APIs , python for automation 
 
 🔗 Let's Connect
 
 📧 Email: sarthmali369@gmail.com
-
-🌐 Portfolio: Coming Soon!
 
 💼 LinkedIn: linkedin.com/in/sarth-mali
 
