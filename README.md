@@ -18,6 +18,8 @@
 
 ⚙️ Working on Python backend development, building logic, APIs, and database-driven applications.
 
+⚙️ Working on machine learning and building projects 
+
 📚 Currently pursuing B.Tech in Computer Science and Engineering at Annasaheb Dange College of Engineering, Ashta.
 
 💻 Developer Side of Me
@@ -36,11 +38,12 @@ Domain	Tools
 📊 Visualization	Matplotlib, Power BI , Tableau
 📑 Querying	Advanced SQL, Window Functions
 ⚙️ Backend	Python, Flask, Database Integration
-🚀 Career Focus
+
+
 
 ✅ Current: Data Analyst • SQL Developer • Python Developer  • C++ Developer
 
-🎯 Future Goal: Data Scientist
+🎯 Future Goal: Data Scientist , machine learning enginner 
 
 ⚙️ Also Exploring: Python Backend Development & APIs , python for automation 
 
