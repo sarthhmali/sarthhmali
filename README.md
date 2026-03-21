@@ -53,4 +53,4 @@ Domain	Tools
 
 💼 LinkedIn: linkedin.com/in/sarth-mali
 
-🐦 Twitter/X: @sarth_mali
+🐦 Twitter/X: @SARTHAN
