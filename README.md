@@ -69,7 +69,7 @@ API Development
 DevSecOps
 🔗 Let's Connect
 
-📧 Email: sarthmali369@gmail.com
+📧 Email: sarthmali03@gmail.com
 
 💼 LinkedIn: linkedin.com/in/sarth-mali
 
