@@ -1,56 +1,76 @@
 👋 Hello World, I'm Sarth Bhausaheb Mali
 
-📊 Data Analyst | 🗄️ SQL Developer | 🐍 Python Developer
-📈 Aspiring Data Scientist | ⚙️ Backend Developer (Python)
-🎓 B.Tech CSE Student at ADCET, Ashta
+🛡️ Cybersecurity Enthusiast | 🔍 SOC Analyst Aspirant | 🐍 Python Backend Developer
+☁️ Cloud Security Learner | 💻 C++ Developer
+🎓 B.Tech Computer Science & Engineering Student at ADCET, Ashta
 
 🧠 About Me
 
-🎯 I am a data-focused developer who enjoys turning raw data into meaningful insights.
+🎯 I am passionate about cybersecurity and enjoy understanding how systems work, identifying security risks, and learning how to defend against cyber attacks.
 
-📊 Strong interest in Data Analysis, SQL querying, and data-driven decision making.
+🛡️ Strong interest in Security Operations Center (SOC), Incident Response, Threat Detection, Vulnerability Assessment, and Network Security.
 
-🐍 Passionate Python Developer, using Python for analysis, automation, and backend logic.
+🔍 Continuously learning ethical hacking, penetration testing, Linux, networking, and cybersecurity tools through hands-on labs and real-world practice.
 
-🗄️ Skilled in SQL — writing optimized queries, joins, subqueries, aggregations, and reports.
+🐍 Passionate Python Developer, building backend applications, automation scripts, security tools, and APIs.
 
-📈 Actively preparing for a future role as a Data Scientist by strengthening statistics, Python, and ML foundations.
+⚙️ Interested in backend development, creating secure and scalable applications using Python and databases.
 
-⚙️ Working on Python backend development, building logic, APIs, and database-driven applications.
+☁️ Exploring cloud security concepts, security monitoring, and modern cybersecurity practices.
 
-⚙️ Working on machine learning and building projects 
-
-📚 Currently pursuing B.Tech in Computer Science and Engineering at Annasaheb Dange College of Engineering, Ashta.
+📚 Currently pursuing a B.Tech in Computer Science & Engineering at Annasaheb Dange College of Engineering, Ashta.
 
 💻 Developer Side of Me
-Skill Area	Tools / Tech
-🐍 Python	Data Analysis, Automation, Backend Logic, Flask
-🗄️ SQL	PostgreSQL, MySQL, Queries, Joins, Subqueries
-💡 C++	DSA, Problem Solving
-📊 Data Analysis	Data Cleaning, Aggregation, Reporting
+Skill Area	Tools / Technologies
+🐍 Python	Backend Development, Automation, Flask, APIs
+💻 C++	Data Structures & Algorithms, Problem Solving
+🗄️ SQL	PostgreSQL, MySQL, Database Design
+🐧 Linux	Command Line, Bash, System Administration
+🌐 Networking	TCP/IP, DNS, HTTP/HTTPS, OSI Model
 
-I enjoy writing clean, efficient, and optimized code to solve real-world data and backend problems.
+I enjoy building secure, efficient, and scalable applications while continuously improving my cybersecurity knowledge.
 
-📊 Data & Analytics Stack
-Domain	Tools
-📈 Data Analysis	Python, Pandas, NumPy
+🛡️ Cybersecurity Stack
+Domain	Technologies
+🔍 SOC	Log Analysis, SIEM Basics, Incident Investigation
+🌐 Network Security	TCP/IP, Firewalls, DNS, VPN, Network Fundamentals
+🐧 Operating Systems	Linux, Windows
+⚔️ Ethical Hacking	Burp Suite, Nmap, Wireshark, OWASP Top 10
+☁️ Cloud Security	AWS Fundamentals, Cloud Security Basics
+🐍 Security Automation	Python Scripting
 🗄️ Databases	PostgreSQL, MySQL
-📊 Visualization	Matplotlib, Power BI , Tableau
-📑 Querying	Advanced SQL, Window Functions
-⚙️ Backend	Python, Flask, Database Integration
+🚀 Currently Learning
+🛡️ Security Operations Center (SOC)
+🔍 Threat Detection & Incident Response
+⚔️ Ethical Hacking & Penetration Testing
+🌐 Network Security
+🐧 Linux Administration
+☁️ Cloud Security (AWS)
+🐍 Python for Security Automation
+⚙️ Backend Development with Flask & APIs
+🎯 Career Goal
 
+✅ Become a Cybersecurity Engineer
 
+🎯 Specialize in:
 
-✅ Current: Data Analyst • SQL Developer • Python Developer  • C++ Developer
+SOC Analysis
+Cloud Security
+Detection Engineering
+Incident Response
+Threat Hunting
+Security Engineer
 
-🎯 Future Goal: Data Scientist , machine learning enginner 
+⚙️ Also exploring:
 
-⚙️ Also Exploring: Python Backend Development & APIs , python for automation 
-
+Python Backend Development
+Security Automation
+API Development
+DevSecOps
 🔗 Let's Connect
 
 📧 Email: sarthmali369@gmail.com
 
 💼 LinkedIn: linkedin.com/in/sarth-mali
 
-🐦 Twitter/X: @SARTHAN
+🐦 X (Twitter): @SARTHAN
